@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanicebandoo.
 - 👀 I’m interested in coding and research projects.
-- 🌱 I’m currently learning Intermediate Java.
-- 💞️ I’m looking to collaborate on reseach projects in the Computer Science sector.
+- 🌱 I’m currently learning Algorithm Techniques and Artifcial Intelligence.
+- 💞️ I’m looking to collaborate on reseach projects in Machine Learning/Artificial Intelligence.
 - 📫 You can contact me via email at: shanicebandoo@gmail.com
 
 <!---
