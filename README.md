@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanicebandoo.
-- 👀 I’m interested in coding and research projects.
-- 🌱 I’m currently learning Algorithm Techniques and Artifcial Intelligence.
-- 💞️ I’m looking to collaborate on reseach projects in Machine Learning/Artificial Intelligence.
+- 👀 I’m interested in Web Development, Machine Learning/AI, and Data Analytics.
+- 🌱 I’m currently learning Backend Engineering.
+- 💞️ I’m looking for Apprenceticeships and Software Engineering roles.
 - 📫 You can contact me via email at: shanicebandoo@gmail.com
 
 <!---
