@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanicebandoo.
-- 👀 I’m interested in Web Development, Machine Learning/AI, and Data Analytics.
+- 👀 I’m interested in Web Development and Machine Learning/AI.
 - 🌱 I’m currently learning Backend Engineering.
 - 💞️ I’m looking for Apprenceticeships and Software Engineering roles.
 - 📫 You can contact me via email at: shanicebandoo@gmail.com
