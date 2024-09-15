@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanicebandoo.
 - 👀 I’m interested in Web Development and Machine Learning/AI.
-- 🌱 I’m currently learning Backend Engineering.
-- 💞️ I’m looking for Apprenceticeships and Software Engineering roles.
+- 🌱 I’m currently a Software Engineer Intern.
+- 💞️ I’m looking for Software Engineer roles.
 - 📫 You can contact me via email at: shanicebandoo@gmail.com
 
 <!---
